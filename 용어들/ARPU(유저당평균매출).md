@@ -1,6 +1,6 @@
 ## 유저당 평균 매출(ARPU)
 
-ARPU(Average Revenue Per User)는 일정 기간 동안 고객 한 명당 발생된 평균 수익을 의미합니다.
+ARPU(Average Revenue Per User)는 일정 기간 동안 유저 한 명당 발생된 평균 수익을 의미합니다.
 
 ### ARPU 계산 방법
 
