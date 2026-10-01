@@ -5,8 +5,7 @@
 
 ### 5단계
 
-AARRR = Acquisition → Activation → Retention → Revenue → Referral
-<br />아 르 = 획 득 → 활성화 → 유 지 → 수 익 → 추 천
+AARRR = Acquisition(획득) → Activation(활성화) → Retention(유지) → Revenue(수익) → Referral(추천)
 
 | 단계            | 의미   | 핵심 질문                                 | 예시 지표                            |
 | --------------- | ------ | ----------------------------------------- | ------------------------------------ |
