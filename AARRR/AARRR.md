@@ -20,6 +20,5 @@ AARRR = Acquisition(획득) → Activation(활성화) → Retention(유지) → 
 - Acquisition : 검색, SNS(틱톡), 광고를 통해 사이트에 들어온다.
 - Activation : 회원가입 후 첫 대화를 진행한다.
 - Retention : 다음 날(주)에 다시 대화한다.
-- Revenue : 제타패스를 구매하거나 피스를 추가 구입한다.
+- Revenue : 한 채팅에서 광고를 3번 이상 시청하거나 제타패스를 구매하거나 피스를 추가 구입한다.
 - Referral : 친구에게 공유한다.
-  <br />// 광고가 애매하노
