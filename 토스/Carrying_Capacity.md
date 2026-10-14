@@ -1,7 +1,6 @@
 ## 토스 리더가 말하는 PO가 꼭 알아야할 개념 | Carrying Capacity
 
-[
-토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION](https://youtu.be/tcrr2QiXt9M?si=EiIhK-UgQEA4Qe8w)
+[토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION](https://youtu.be/tcrr2QiXt9M?si=EiIhK-UgQEA4Qe8w)
 
 ### 데이터 그로쓰 모델링 질문 5개
 
